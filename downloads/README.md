@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [Console.Store.Simulator-GoldBerg](./Console.Store.Simulator-GoldBerg)
 - [Update.v1.526.0.0-RUNE](./Update.v1.526.0.0-RUNE)
 - [archive_20260509_230333](./archive_20260509_230333)
 
